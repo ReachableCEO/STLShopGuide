@@ -1,0 +1,28 @@
+# E3ds PC Hardware/Software and Peripherals And Equipment
+
+- [Surface Laptop Go 2](https://www.microsoft.com/en-us/d/surface-laptop-go-2/8pglpv76mjhn?activetab=pivot:overviewtab) with 8gb ram running Windows 11 Professional 22H2 
+- [3d scanner](https://en.openscan.eu/) 
+- [Canon Pixma Pixel Pro 9500 Printer](https://www.usa.canon.com/support/p/pixma-pro9500)
+- Monoprice Select Mini 3d Printer P/N 15365
+- Monoprice 3d Printer 2 
+- Go Video VHS/DVD player
+- 2x USB SATA/IDE connectors
+- Dazzle
+- [Fijitsu ScanSnap S1500](https://www.fujitsu.com/us/Images/scansnap-s1500_datasheet.pdf)
+- Neatdesk Scanner
+- [Dymo LabelWriter 450 Turbo](https://www.dymo.com/label-makers-printers/labelwriter-label-printers/dymo-labelwriter-450-turbo-direct-thermal-label-printer/SAP_1752265.html)
+- [Canon Color ImageClass MF734Cdw print/fax/scan](https://www.csai.canon.com/support/p/color-imageclass-mf743cdw)
+- [Ubiquiti Tough Switch POE](https://dl.ubnt.com/guides/toughswitch/TOUGHSwitch_PoE_8-Port_QSG.pdf) (non PC controlled/connected except when needed)
+- DC Bench Power Supply (non PC controlled/connected, stand alone unit)
+- 110 plug
+- USB power/data hub
+- [AOYUE Solder Rework Int 899A+ Solder Rework Station](https://www.aoyue3d.com/en/pro/default.asp?id=99)
+- [ECG J-SSD-1 Solder Station](https://www.dxengineering.com/parts/ecg-j-ssd-1)
+- [Lumens Document Camera](https://www.mylumens.com/en/Products_detail/41/DC172-Document-Camera)
+- [Adafruit Microscope](https://www.adafruit.com/product/636)
+- [Bitscope BS05](http://www.bitscope.com/product/BS05/)
+- [BusPirate](https://buspirate.com/)
+- [UT61E Logging Multimeter](https://meters.uni-trend.com/product/ut61-series/)
+- [ST-Link v2 Jtag](https://www.st.com/en/development-tools/st-link-v2.html)
+- [Panavise PCB Holder](https://www.panavise.com/index.html?pageID=1&page=full&--eqskudatarq=1)
+- [Silhouette Cameo 4](https://www.silhouetteamerica.com/featured-product/cameo)

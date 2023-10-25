@@ -1,0 +1,31 @@
+site_name: Starting Line Productions Shop Guide
+site_url: https://guide.startinglineproductions.com
+nav:
+  - Home: index.md
+  - Version History: version-history.md
+  - Shop Health / Safety / Security information: shss.md
+  - First Aid: first-aid.md
+  - Emergency Action Plan: emactplan.md
+  - E3ds shop overview: e3ds-shop-overview.md
+  - E3ds PC Hardware/Software and Peripherals And Equipment: e3ds-pchwswp.md
+  - E3ds Tools: e3ds-tools.md
+  - E3ds Supplies: e3ds-supplies.md
+  - Cleanfab Shop Overview: cleanfab-shop-overview.md
+  - Cleanfab Tools: cleanfab-tools.md
+  - Cleanfab Equipment: cleanfab-equipment.md
+  - Cleanfab Supplies: cleanfab-supplies.md
+  - Dirtyfab Shop Overview: dirtyfab-shopoverview.md
+  - Dirtyfab PC Hardware/Software and Peripherals: dirtyfab-pchwswp.md
+  - Dirtyfab Tools: dirtyfab-tools.md
+  - Dirtyfab Equipment: dirtyfab-equipment.md
+  - Dirtyfab Supplies: dirtyfab-supplies.md
+  - Common Software: common-sottware.md
+  - Kitchen Overview: kitchen-overview.md
+  - Kitchen Tools: kitchen-tools.md
+  - Kitchen Equipment: kitchen-equipment.md
+  - Future Offerings: future-offerings.md
+  - HPCLab Overview: hpclab-overview.md
+  - HPCLab Inventory: hpclab-inventory.md
+  - RackRental overview: rackrental-overview.md
+  - RackRental inventory: rackrental-inventory.md
+theme: readthedocs
