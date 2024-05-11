@@ -2,57 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://guide.startinglineproductions.com/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/cleanfab-equipment/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/cleanfab-shop-overview/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/cleanfab-supplies/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/cleanfab-tools/</loc>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guide.startinglineproductions.com/common-software/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guide.startinglineproductions.com/dirtyfab-equipment/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guide.startinglineproductions.com/dirtyfab-pchwswp/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guide.startinglineproductions.com/dirtyfab-shopoverview/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/dirtyfab-supplies/</loc>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guide.startinglineproductions.com/dirtyfab-tools/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guide.startinglineproductions.com/e3ds-pchwswp/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guide.startinglineproductions.com/e3ds-shop-overview/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/e3ds-supplies/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/e3ds-tools/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/emactplan/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/first-aid/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/hpclab-inventory/</loc>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guide.startinglineproductions.com/hpclab-overview/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/kitchen-equipment/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/kitchen-overview/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/kitchen-tools/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/rackrental-inventory/</loc>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guide.startinglineproductions.com/rackrental-overview/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guide.startinglineproductions.com/shss/</loc>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guide.startinglineproductions.com/version-history/</loc>
-         <lastmod>2023-10-25</lastmod>
+         <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
