@@ -1,6 +1,6 @@
 
-  - Home: index.md
-  - Version History: version-history.md
+  - [Welcome](./Welcome.md)
+  - [Version History](./version-history.)
   - Shop Health / Safety / Security information: shss.md
   - First Aid: first-aid.md
   - Emergency Action Plan: emactplan.md
