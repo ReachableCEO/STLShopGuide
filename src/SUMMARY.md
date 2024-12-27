@@ -1,27 +1,26 @@
-
-  - [Welcome](./Welcome.md)
-  - [Version History](./version-history.)
-  - Shop Health / Safety / Security information: shss.md
-  - First Aid: first-aid.md
-  - Emergency Action Plan: emactplan.md
-  - Workstation Software (common): common-software.md
-  - E3ds shop overview: e3ds-shop-overview.md
-  - E3ds PC Hardware/Software and Peripherals And Equipment: e3ds-pchwswp.md
-  - E3ds Tools: e3ds-tools.md
-  - E3ds Supplies: e3ds-supplies.md
-  - Cleanfab Shop Overview: cleanfab-shop-overview.md
-  - Cleanfab Tools: cleanfab-tools.md
-  - Cleanfab Equipment: cleanfab-equipment.md
-  - Cleanfab Supplies: cleanfab-supplies.md
-  - Dirtyfab Shop Overview: dirtyfab-shopoverview.md
-  - Dirtyfab PC Hardware/Software and Peripherals: dirtyfab-pchwswp.md
-  - Dirtyfab Tools: dirtyfab-tools.md
-  - Dirtyfab Equipment: dirtyfab-equipment.md
-  - Dirtyfab Supplies: dirtyfab-supplies.md
-  - Kitchen Overview: kitchen-overview.md
-  - Kitchen Tools: kitchen-tools.md
-  - Kitchen Equipment: kitchen-equipment.md
-  - HPCLab Overview: hpclab-overview.md
-  - HPCLab Inventory: hpclab-inventory.md
-  - RackRental overview: rackrental-overview.md
-  - RackRental inventory: rackrental-inventory.md
+- [Welcome](./Welcome.md)
+- [Version History](./version-history.)
+- [Shop Health / Safety / Security information](./shss.md)
+- [First Aid](./first-aid.md)
+- [Emergency Action Plan](./emactplan.md)
+- [Workstation Software (common)](./common-software.md)
+- [Cleanfab Shop Overview](./cleanfab-shop-overview.md)
+- [Cleanfab Tools](./cleanfab-tools.md)
+- [Cleanfab Equipment](./cleanfab-equipment.md)
+- [Cleanfab Supplies](./cleanfab-supplies.md)
+- [E3ds shop overview](./e3ds-shop-overview.md)
+- [E3ds PC Hardware/Software and Peripherals And Equipment](./e3ds-pchwswp.md)
+- [E3ds Tools](./e3ds-tools.md)
+- [E3ds Supplies](./e3ds-supplies.md)
+- [Dirtyfab Shop Overview](./dirtyfab-shopoverview.md)
+- [Dirtyfab PC Hardware/Software and Peripherals](./dirtyfab-pchwswp.md)
+- [Dirtyfab Tools](./dirtyfab-tools.md)
+- [Dirtyfab Equipment](./dirtyfab-equipment.md)
+- [Dirtyfab Supplies](./dirtyfab-supplies.md)
+- [Kitchen Overview](./kitchen-overview.md)
+- [Kitchen Tools](./kitchen-tools.md)
+- [Kitchen Equipment](./kitchen-equipment.md)
+- [HPCLab Overview](./hpclab-overview.md)
+- [HPCLab Inventory](./hpclab-inventory.md)
+- [RackRental overview](./rackrental-overview.md)
+- [RackRental inventory](./rackrental-inventory.md)
