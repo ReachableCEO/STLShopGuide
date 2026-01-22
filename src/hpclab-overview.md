@@ -1,3 +1,3 @@
 # TSYS High Performance Computing Lab Overview
 
-Currently, TSYS Group (Starting Line Productions parent company) operates an HPC cluster to run various medium/large engineering workloads. TSYS is considering making some capacity on this cluster available to STL customers at some point in the future.
+Currently, **Turnkey Network Systems LLC** (part of the **TSYS Group**) operates an HPC cluster to run various medium/large engineering workloads. We are considering making some capacity on this cluster available to STLP customers at some point in the future.

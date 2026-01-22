@@ -1,5 +1,5 @@
 - [Welcome](./Welcome.md)
-- [Version History](./version-history.)
+- [Version History](./version-history.md)
 - [Shop Health / Safety / Security information](./shss.md)
 - [First Aid](./first-aid.md)
 - [Emergency Action Plan](./emactplan.md)
